@@ -1,0 +1,9 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ú‚®ŠùÿÿÿÿJ$3f5596d1-9fe4-4451-93da-277f9b401f97
+¡
+java:S1845"`Rename method "getconnection" to prevent any misunderstanding/clash with method "getConnection".(˜—ÞïúÿÿÿÿJ$613f6dee-d262-4f06-87b8-13df6cebd932
+­
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(˜—ÞïúÿÿÿÿJ$19bbf33d-2409-4546-8ffc-dc4f6fe11757
+k	java:S106"+Replace this use of System.out by a logger.(Š‡Å¾úÿÿÿÿJ$c435b9ca-0124-415c-9dc7-65fee62656a9
+{
+java:S1128":Remove this unused import 'collection.Map.PropertiesDemo'.(ÒÐ•ÚüÿÿÿÿJ$5986be86-cb9e-4855-8f3c-4f6a4cc2d295
